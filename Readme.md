@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CircularMarkerSlideFromLeftAnimation.cs](./CS/CustomCircularSeriesAnimationSample/CircularMarkerSlideFromLeftAnimation.cs) (VB: [CircularMarkerSlideFromLeftAnimation.vb](./VB/CustomCircularSeriesAnimationSample/CircularMarkerSlideFromLeftAnimation.vb))**
+<!-- default file list end -->
 # How to: Implement a Custom Marker Animation
 
 
